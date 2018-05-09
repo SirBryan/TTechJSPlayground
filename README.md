@@ -1,2 +1,0 @@
-# TTechJSPlayground
-Created with CodeSandbox
